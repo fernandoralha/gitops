@@ -7,5 +7,5 @@ resources:
 
 images:
 - name: goserver
-  newName: fernandoralha/gitopsargocd
-  newTag: 55f36cb53adbe095908594b2a2a67c54317ce556
+  newName: fernandoralha/gitops
+  newTag: a97b548f895c565e99c996c9c4708e2b148d9ed8
