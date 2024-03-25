@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: fernandoralha/gitops
-  newTag: a97b548f895c565e99c996c9c4708e2b148d9ed8
+  newTag: 2f605ee4c0f7f5a72c037e734da31a03d171bac2
